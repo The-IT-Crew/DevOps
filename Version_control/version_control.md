@@ -11,4 +11,4 @@
  - Bazaar
  - Bitkeeper
  -  Fossil
-<img src='../Images/image1.png' alt='chart' style="width:10%">
+<img src='../Images/image1.png' alt='chart'>
