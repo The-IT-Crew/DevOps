@@ -18,3 +18,10 @@
 The server act as a master repositories and developers personal workspace acts as a client repositories. Everytime the user/client
 need to be on the same network to access the master repositories because you can't access it remotely. User/Client commits directly to the <code> main </code> branch.
 Centralized version control system basically used for small team member and large file commits.</p>
+<h3>Advantages of CVCS</h3>
+<hr>
+<p>When a developer chnages to the bulid and push it to the server repositories there should be a commit message, showing who and which exact file they changed and where did actually the code changed. </p>
+<p> Binary files, such as graphic assets and text files, require a large amount of space, so software developers turn to centralized version control systems to store this data. With a centralized server, teams can pull a few lines of code without saving the entire history on their local machine. Users of distributed systems have to download the entire project, which takes up time and space and prevents them from doing diffs. If a team works with binary files regularly, a centralized system offers the most efficient approach to code development.</p>
+
+### Disadvantage of CVCS
+<hr>
