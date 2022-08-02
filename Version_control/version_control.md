@@ -17,4 +17,4 @@
 <p>Centralized control version system only has 2 repositories a master repositories and client repositories.</br>
 The server act as a master repositories and developers personal workspace acts as a client repositories. Everytime the user/client
 need to be on the same network to access the master repositories because you can't access it remotely. User/Client commits directly to the <code> main </code> branch.
-Centralized version control system basically used for small team member and large file commits.
+Centralized version control system basically used for small team member and large file commits.</p>
