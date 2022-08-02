@@ -12,4 +12,5 @@
  - Bitkeeper
  -  Fossil
 <img src='../Images/image1.png' alt='chart'>
-<p> <h3>how the Centralized version control system works</h3> <p>
+<p><h3>How the Centralized version control system works</h3></p>
+
