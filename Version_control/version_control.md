@@ -27,3 +27,4 @@ Centralized version control system basically used for small team member and larg
 <hr>
 <p>All the system main files and metadata are stored in to an single repositories. If, somehow the server's main repositories crashed or get corrupted, all the system files would be lost,</p>
 <p>Also, u can't access the data form server remotely, you will always need to be on a specific network to access it.</p>
+<p><h3>How the Distributed version control system works ?</h3></p>
