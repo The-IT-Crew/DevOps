@@ -1,4 +1,4 @@
-﻿﻿#  🐍 Introduction to DevOps
+﻿#  🐍 Introduction to DevOps
 
 **2. Devops Stages**
 
