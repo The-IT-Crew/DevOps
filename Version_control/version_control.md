@@ -53,8 +53,9 @@ Centralized version control system basically used for small team member and larg
 <p>Also, u can't access the data form server remotely, you will always need to be on a specific network to access it.</p>
 
 <h3>How the Distributed version control system works ?</h3>
-
+<img src='../Images/image4.png' alt='dvcs'>
  - Every workstation developer has a copy of a main repositories on their local Hard-Drive, developer can fetch data from main repositories to their local repositories, edit the contents of local repositories, commit and push it back to the central/main/remote repositories.
  - If somehow the server side repo/main repositories get crashed or corrupted,every developer has a local copy of that main repositories on their hard-drive. So, data loss should't be a issue.
+<img src='../Images/image5.png' alt='dvcs1'>
 <p>Every new content u can pull form the server side repositories and after changes you can push into the server repositories.
 
