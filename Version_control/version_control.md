@@ -1,4 +1,4 @@
-﻿#  🐍 Introduction to DevOps
+﻿﻿#  🐍 Introduction to DevOps
 
 **2. Devops Stages**
 
@@ -58,4 +58,14 @@ Centralized version control system basically used for small team member and larg
  - If somehow the server side repo/main repositories get crashed or corrupted,every developer has a local copy of that main repositories on their hard-drive. So, data loss should't be a issue.
 <img src='../Images/image5.png' alt='dvcs1'>
 <p>Every new content u can pull form the server side repositories and after changes you can push into the server repositories.
+<h2> Git and Github</h2>
+<p>Git is a distributed version control tool thats supports Distributed Non-linear workflow by providing data assurance for developing quality software.</p>
+Before using Git ,you need to have install Git in your system.
+<h3>how to install Git?</h3>
+<p>Open browser and go to (https://git-scm.com/downloads) and download Git for windows,linux or Mac-os.</p>
+<h4>How Git actually works..?</h4>
+Lets understand the below Diagram
+
+
+
 
