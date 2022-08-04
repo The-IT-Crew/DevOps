@@ -99,7 +99,7 @@ just copy your SSH from there.</p>
 <p><code>$git push origin master</code> this will push all your commited file to the remote repository</p>
 <p><code>$git pull origin master</code> that will pull everything on your remote repositories to your local repositories </p>
 <p>Always remember 'master' is your branch name, your git repositories can have as many as branch, thats why git is a non-linear version control system,like a tree.</p>
-<h4>Parallel Development in Git - <h4>
+<h4>Parallel Development in Git - </h4>
 <b>Branch</b>
 <p>Branches are pointers to a specific commit<p>
 <p>Branches are two types - Local branch and Remote-tracking branch.</p>
